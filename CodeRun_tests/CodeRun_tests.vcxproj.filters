@@ -26,5 +26,16 @@
     <ClInclude Include="2. Самый дешевый путь.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="3. Вывести маршрут максимальной стоимости.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="4. Ход конём.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="5. Кафе.h">
+      <Filter>Исходные файлы</Filter>
+    </None>
   </ItemGroup>
 </Project>
