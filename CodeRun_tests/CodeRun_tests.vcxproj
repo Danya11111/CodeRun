@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Средний элемент.h" />
+    <ClInclude Include="12. Длина кратчайшего пути.h" />
     <ClInclude Include="2. Самый дешевый путь.h" />
     <ClInclude Include="3. Вывести маршрут максимальной стоимости.h" />
     <ClInclude Include="4. Ход конём.h" />

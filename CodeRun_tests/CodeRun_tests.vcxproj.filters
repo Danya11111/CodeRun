@@ -32,6 +32,9 @@
     <ClInclude Include="4. Ход конём.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="12. Длина кратчайшего пути.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="5. Кафе.h">
